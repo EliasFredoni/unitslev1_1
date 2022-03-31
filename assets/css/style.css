@@ -1,0 +1,55 @@
+
+
+section{
+    border: solid;
+    border-radius: 2mm;
+}
+
+h2{
+    text-align: center;
+    font-size: 15mm;
+    text-shadow: 1.5mm 1.5mm black;
+    font-family: "Helvetica Neue";
+    background: rgba(58, 58, 58, 0.87);
+    color: white;
+    margin: 0 0px;
+}
+
+article{
+    margin: 30px 20px;
+    border: solid;
+    border-radius: 2mm;
+    border-width: 5px;
+    background-color: grey;
+}
+
+article > p{
+    font-size: 7mm;
+    color: white;
+    padding: 0 50px;
+}
+
+li{
+    font-size: 0.7cm ;
+    list-style: none;
+}
+
+ul{
+    padding: 0 50px;
+}
+
+ul :first-child{
+    background: white;
+}
+
+ul :last-child{
+    background: white;
+}
+
+h3{
+    font-size: 17mm;
+    color: white;
+    padding: 0 50px;
+}
+
+/* CSS Enitites : 2022 BULLET */
